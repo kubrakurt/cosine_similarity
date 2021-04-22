@@ -7,7 +7,7 @@
 
 ## Medium
 
-* [Kosinüs Benzerlik Algoritması ve Kitap Önerileri]()
+* [Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması]()
 
 ## Kaynaklar
 
