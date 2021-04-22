@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://github.com/kubrakurt/cosine_similarity/blob/main/cosine_similarity_.png" /></p>
 
 * Kosinüs Benzerlik Algoritması
-* Kitap Önerisi
+* Kitap Önerisi Uygulaması
 
 ## Medium
 
