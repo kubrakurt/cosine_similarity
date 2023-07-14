@@ -7,7 +7,7 @@
 
 ## Medium
 
-* [Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması]()
+* [Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması](https://kubrakurt.medium.com/kosin%C3%BCs-benzerlik-algoritmas%C4%B1-ve-kitap-%C3%B6nerileri-5123cf7c54c1)
 
 ## Kaynaklar
 
